@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Jialei"
-  pronouns         : "he/his" # example: "she/her"  
+  # pronouns         : "he/his" # example: "she/her"  
   bio              : "PHD candidate in AMSS. Working on Inverse problems for PDEs."
   location         : "Beijing China"
   # employer         : "Red Brick University"
